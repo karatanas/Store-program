@@ -1,0 +1,30 @@
+C:\Users\kkara\source\repos\MyShop\MyShop\obj\Debug\MyShop.csprojResolveAssemblyReference.cache
+C:\Users\kkara\source\repos\MyShop\MyShop\obj\Debug\MyShop.MainForm.resources
+C:\Users\kkara\source\repos\MyShop\MyShop\obj\Debug\MyShop.Properties.Resources.resources
+C:\Users\kkara\source\repos\MyShop\MyShop\obj\Debug\MyShop.csproj.GenerateResource.cache
+C:\Users\kkara\source\repos\MyShop\MyShop\obj\Debug\MyShop.csproj.CoreCompileInputs.cache
+C:\Users\kkara\source\repos\MyShop\MyShop\bin\Debug\MyShop.exe.config
+C:\Users\kkara\source\repos\MyShop\MyShop\bin\Debug\MyShop.exe
+C:\Users\kkara\source\repos\MyShop\MyShop\bin\Debug\MyShop.pdb
+C:\Users\kkara\source\repos\MyShop\MyShop\obj\Debug\MyShop.exe
+C:\Users\kkara\source\repos\MyShop\MyShop\obj\Debug\MyShop.pdb
+C:\Users\kkara\source\repos\MyShop — копия\MyShop\bin\Debug\MyShop.exe.config
+C:\Users\kkara\source\repos\MyShop — копия\MyShop\bin\Debug\MyShop.exe
+C:\Users\kkara\source\repos\MyShop — копия\MyShop\bin\Debug\MyShop.pdb
+C:\Users\kkara\source\repos\MyShop — копия\MyShop\obj\Debug\MyShop.csprojResolveAssemblyReference.cache
+C:\Users\kkara\source\repos\MyShop — копия\MyShop\obj\Debug\MyShop.MainForm.resources
+C:\Users\kkara\source\repos\MyShop — копия\MyShop\obj\Debug\MyShop.Properties.Resources.resources
+C:\Users\kkara\source\repos\MyShop — копия\MyShop\obj\Debug\MyShop.csproj.GenerateResource.cache
+C:\Users\kkara\source\repos\MyShop — копия\MyShop\obj\Debug\MyShop.csproj.CoreCompileInputs.cache
+C:\Users\kkara\source\repos\MyShop — копия\MyShop\obj\Debug\MyShop.exe
+C:\Users\kkara\source\repos\MyShop — копия\MyShop\obj\Debug\MyShop.pdb
+F:\Projects\C#\MyShop\MyShop\bin\Debug\MyShop.exe.config
+F:\Projects\C#\MyShop\MyShop\bin\Debug\MyShop.exe
+F:\Projects\C#\MyShop\MyShop\bin\Debug\MyShop.pdb
+F:\Projects\C#\MyShop\MyShop\obj\Debug\MyShop.csprojResolveAssemblyReference.cache
+F:\Projects\C#\MyShop\MyShop\obj\Debug\MyShop.MainForm.resources
+F:\Projects\C#\MyShop\MyShop\obj\Debug\MyShop.Properties.Resources.resources
+F:\Projects\C#\MyShop\MyShop\obj\Debug\MyShop.csproj.GenerateResource.cache
+F:\Projects\C#\MyShop\MyShop\obj\Debug\MyShop.csproj.CoreCompileInputs.cache
+F:\Projects\C#\MyShop\MyShop\obj\Debug\MyShop.exe
+F:\Projects\C#\MyShop\MyShop\obj\Debug\MyShop.pdb
